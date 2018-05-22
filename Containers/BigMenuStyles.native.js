@@ -6,7 +6,8 @@ Object.defineProperty(exports, "__esModule", {
 exports['default'] = {
     Tabs: {
         container: {
-            flex: 1
+            flex: 1,
+            backgroundColor:'#eaeaea'
         },
         topTabBarSplitLine: {
             borderBottomColor: '#eee',
@@ -19,19 +20,21 @@ exports['default'] = {
     },
     TabBar: {
         container: {
-            height: 200
+            height: 220,
+            backgroundColor:'#eaeaea'
         },
         tabs: {
             flex: 1,
             flexDirection: 'row',
-            height: 200,
-            backgroundColor: '#fff',
+            height: 220,
+            backgroundColor: '#eaeaea',
             justifyContent: 'space-around'
         },
         tab: {
-            height: 200,
+            height: 220,
             alignItems: 'center',
             justifyContent: 'center',
+            backgroundColor: '#eaeaea',
             paddingTop: 0,
             paddingBottom: 0,
             paddingRight: 2,
@@ -39,7 +42,7 @@ exports['default'] = {
             flexDirection: 'row'
         },
         underline: {
-            height: 2,
+            height: 0,
             backgroundColor: '#108ee9'
         },
         textStyle: {
