@@ -27,6 +27,7 @@ exports['default'] = {
             flex: 1,
             flexDirection: 'row',
             height: 220,
+            paddingRight:30,
             backgroundColor: '#eaeaea',
             justifyContent: 'space-around'
         },

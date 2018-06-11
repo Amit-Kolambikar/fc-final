@@ -1,0 +1,86 @@
+Invariant Violation: React.Children.only expected to receive a single React element child.
+
+This error is located at:
+    in TouchableHighlight (at InnerTabs.js:64)
+    in RCTView (at View.js:60)
+    in View (at VirtualizedList.js:1664)
+    in CellRenderer (at VirtualizedList.js:670)
+    in AndroidHorizontalScrollContentView (at ScrollView.js:791)
+    in AndroidHorizontalScrollView (at ScrollView.js:887)
+    in ScrollView (at VirtualizedList.js:1024)
+    in VirtualizedList (at FlatList.js:644)
+    in FlatList (at InnerTabs.js:54)
+    in RCTView (at View.js:60)
+    in View (at InnerTabs.js:53)
+    in RCTView (at View.js:60)
+    in View (at ScrollView.js:791)
+    in RCTScrollView (at ScrollView.js:887)
+    in ScrollView (at KeyboardAwareHOC.js:397)
+    in _class (at Content.js:14)
+    in Content (at connectStyle.js:384)
+    in Styled(Content) (at InnerTabs.js:52)
+    in RCTView (at View.js:60)
+    in View (at Container.js:15)
+    in Container (at connectStyle.js:384)
+    in Styled(Container) (at InnerTabs.js:50)
+    in FooterTabsExample (at App.js:22)
+    in RCTView (at View.js:60)
+    in View (at ScrollView.js:791)
+    in RCTScrollView (at ScrollView.js:887)
+    in ScrollView (at App.js:21)
+    in App (at renderApplication.js:33)
+    in RCTView (at View.js:60)
+    in View (at AppContainer.js:102)
+    in RCTView (at View.js:60)
+    in View (at AppContainer.js:122)
+    in AppContainer (at renderApplication.js:32)
+onlyChild
+    react.development.js:968:40
+TouchableHighlight_render
+    TouchableHighlight.js:327:38
+finishClassComponent
+    ReactNativeRenderer-dev.js:8811:23
+updateClassComponent
+    ReactNativeRenderer-dev.js:8762:6
+beginWork
+    ReactNativeRenderer-dev.js:9581:10
+performUnitOfWork
+    ReactNativeRenderer-dev.js:12924:25
+workLoop
+    ReactNativeRenderer-dev.js:12953:43
+renderRoot
+    ReactNativeRenderer-dev.js:12996:17
+performWorkOnRoot
+    ReactNativeRenderer-dev.js:13632:34
+performWork
+    ReactNativeRenderer-dev.js:13545:26
+performSyncWork
+    ReactNativeRenderer-dev.js:13506:16
+requestWork
+    ReactNativeRenderer-dev.js:13392:6
+scheduleWorkImpl
+    ReactNativeRenderer-dev.js:13259:24
+scheduleWork
+    ReactNativeRenderer-dev.js:13207:28
+scheduleRootUpdate
+    ReactNativeRenderer-dev.js:13930:17
+_updateContainerAtExpirationTime
+    ReactNativeRenderer-dev.js:13966:6
+updateContainer
+    ReactNativeRenderer-dev.js:13991:8
+render
+    ReactNativeRenderer-dev.js:14726:35
+renderApplication
+    renderApplication.js:49:21
+run
+    AppRegistry.js:102:10
+runApplication
+    AppRegistry.js:194:26
+__callFunction
+    MessageQueue.js:351:47
+<unknown>
+    MessageQueue.js:116:26
+__guardSafe
+    MessageQueue.js:314:6
+callFunctionReturnFlushedQueue
+    MessageQueue.js:115:17

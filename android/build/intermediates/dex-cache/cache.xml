@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6981b8e4ab774cc6e19de6cc1e0ee39cd2be879a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_382ea2487ec3aa1701e50eaa658455b513e6e14d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_24120663db7b1e726036f1cb495a1679c747fced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e0541340e4bd7e52d0d633de3a9d909c1c2f7652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_50d717ea85cca750bd75c1dc50fa85533f096c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_5367f8a4162c2b8528700f6e61d225db4a181c39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.55.4_c26e28580e5550d33a134ec273e43f4831bbbfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.3.0_900b4417f1e42ac59034273f4bedca4dd6d7c966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_ec76166d7540859b9608761db43fafda0562687c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.3.0_77ed4e5ed57e1b8d4177464a0d82e6026da9414c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.3.0_da9f938ac35abdff97ce964dacb74f2f0202098e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/javax.inject-1_406c314cc2a3814b6d15756ac46694e7249d1863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_f57d7ec9064582499e104d1a63ca70e54a929bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_2492666fe8c74f1df7304228f2ae68df91d7d231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_7802eb14c26abbddfb85f6413cc39a2cd93f0dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_53cb611c621200fb2d84e6f4e0815d0ec9ec3f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.1_d5002c03be918ea8271225af2ac3ab1339afb14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.3.0_6eee0d3ef94c6406b29686d84601e84154d96c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_d3970e9ab6a5be73886005e8fa1aba4a05cf210a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/ak1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.3.0_c5aad482bb4de625c7f71c90db2b38126a1c39df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amit/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/amit/ak1/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_610511359772579bc14d8e7818b041ba612deb8a.jar" />
+    </item>
+
+</items>

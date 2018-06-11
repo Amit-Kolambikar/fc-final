@@ -6,6 +6,7 @@
     "babel-preset-react-native-stage-0": "^1.0.1",
     "jest": "^22.4.3",
     "jest-react-native": "^18.0.0",
+    "prop-types": "^15.6.1",
     "react-test-renderer": "16.3.1"
   },
   "scripts": {
@@ -14,15 +15,26 @@
     "ios": "react-native run-ios",
     "test": "jest"
   },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
   "jest": {
     "preset": "react-native"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "bundle": "^2.1.0",
+    "lodash": "^4.17.10",
+    "native-base": "^2.4.5",
     "native-tabs": "^1.3.1",
     "react": "16.3.1",
     "react-native": "^0.55.4",
     "react-native-scrollable-tab-view": "^0.8.0",
+    "react-native-simple-modal": "^8.0.0",
+    "react-native-tab-navigator": "^0.3.4",
+    "redux": "^4.0.0",
     "rmc-tabs": "^1.2.25"
   }
 }
